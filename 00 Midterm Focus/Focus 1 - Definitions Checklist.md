@@ -7,11 +7,11 @@ Check off each term as you can define it from memory, no peeking.
 
 ## Core Concepts
 - [x] [[Project]]
-- [x] [[Project Management]]
+- [ ] [[Project Management]]
 - [x] [[IT Project]]
-- [x] [[IT Project Management (ITPM)]]
-- [x] [[Program Management]]
-- [x] [[Project Portfolio Management]]
+- [ ] [[IT Project Management (ITPM)]]
+- [ ] [[Program Management]]
+- [ ] [[Project Portfolio Management]]
 - [x] [[Deliverable]]
 - [x] [[Milestone]]
 - [x] [[Stakeholder]]
